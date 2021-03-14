@@ -1,3 +1,7 @@
+# 1. Pobierz projekt
+# 2. Otwórz w konsoli lokalizację projektu i użyj komendy npm install
+# 3. Użyj komendy npm start aby uruchomić projekt
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
