@@ -1,12 +1,16 @@
 # Application for checking exchange rates.
 
-## The application allows you to check the current exchange rates in relation to PLN on the basis of data downloaded from the NBP API.
+## Description
 
-## By entering the three-letter currency code set by the international standard ISO 4217, we will see the current exchange rate. At the same time, the currency is added to the list of favorite currencies. The selected currency or all of them can be removed from the list. The need to confirm deletion protects us from accidental deletion.
+### The application allows you to check the current exchange rates in relation to PLN on the basis of data downloaded from the NBP API.
 
-## The application uses localStorage to store a list of your favorite currencies that we browse. Thanks to this, after closing the website and visiting it again, we can still see the currencies that interest us.
+### By entering the three-letter currency code set by the international standard ISO 4217, we will see the current exchange rate. At the same time, the currency is added to the list of favorite currencies. The selected currency or all of them can be removed from the list. The need to confirm deletion protects us from accidental deletion.
 
-## To test the application, download the project, set the path to the project in the console and run the npm install command. After installing the packages, type npm start to start the application
+### The application uses localStorage to store a list of your favorite currencies that we browse. Thanks to this, after closing the website and visiting it again, we can still see the currencies that interest us.
+
+## How to run this application on your local machine?
+
+### To test the application, download the project, set the path to the project in the console and run the npm install command. After installing the packages, type npm start to start the application
 
 # Getting Started with Create React App
 
