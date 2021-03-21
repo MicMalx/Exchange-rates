@@ -10,7 +10,7 @@ The application uses localStorage to store a list of your favorite currencies th
 
 ## How to run this application on your local machine?
 
-To test the application, download the project, set the path to the project in the console and run the npm install command. After installing the packages, type npm start to start the application
+To test the application, download the project, set the path to the project in the console and run the npm install command. After installing the packages, type npm start to start the application.
 
 # Getting Started with Create React App
 
